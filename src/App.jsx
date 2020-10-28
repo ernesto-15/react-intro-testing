@@ -1,12 +1,8 @@
 import React from 'react';
+import Counter from './components/Counter';
 
 const App = () => {
-  return (
-    <>
-      <h1>Hello World</h1>
-      <p>nose</p>
-    </>
-  );
+  return <Counter value={10} />;
 };
 
 export default App;
