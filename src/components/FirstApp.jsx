@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 const FirstApp = ({ hi, sub }) => {
   return (
     <>
-      <h1>{hi}!!</h1>
+      <h1>{hi}!!!</h1>
       <p>{sub}</p>
     </>
   );

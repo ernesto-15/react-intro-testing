@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests in Counter should show Counter component 1`] = `
+<Fragment>
+  <h1>
+    Counter App
+  </h1>
+  <p>
+    15
+  </p>
+  <button
+    onClick={[Function]}
+  >
+    ++
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    --
+  </button>
+  <button
+    onClick={[Function]}
+  >
+    Reset
+  </button>
+</Fragment>
+`;
